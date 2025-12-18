@@ -1,0 +1,5 @@
+{
+  "name": "Saudi Academic Formatter (SA-DocX)",
+  "description": "A professional tool for converting raw research text into standard Saudi university formatted Word documents (.docx) with automated footnote management.",
+  "requestFramePermissions": []
+}
